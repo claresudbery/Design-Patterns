@@ -11,7 +11,11 @@ namespace Design_Patterns
     {
         static void Main(string[] args)
         {
-            string description = args[0];
+            string description = "";
+            if (args.Length > 0)
+            {
+                description = args[0];
+            }
             IMachine machine = GetMachine(description);
             machine.TurnOn();
             machine.TurnOff();

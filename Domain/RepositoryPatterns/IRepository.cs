@@ -1,6 +1,7 @@
 ﻿namespace Domain.RepositoryPatterns
 {
-    public interface IRepository<DomainType, IdType> where DomainType : IDomain
+    public interface IRepository<DomainType, IdType> 
+        where DomainType : IDomain
     {
         DomainType FindBy(IdType id);
         bool Update(DomainType aggregate);

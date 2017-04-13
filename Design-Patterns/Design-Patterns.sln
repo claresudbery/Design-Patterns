@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Design-Patterns", "Design-P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "..\Domain\Domain.csproj", "{B9869802-6FBE-4564-AEE9-9971FCB09D8D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyTests", "StrategyTests\StrategyTests.csproj", "{F05DD906-9414-400A-8244-6C6F7E6992F8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatternTests", "StrategyTests\PatternTests.csproj", "{F05DD906-9414-400A-8244-6C6F7E6992F8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

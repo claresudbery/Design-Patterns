@@ -1,0 +1,8 @@
+C:\ClareCode\Design-Patterns\Design-Patterns\StrategyTests\obj\Debug\PatternTests.csprojResolveAssemblyReference.cache
+C:\ClareCode\Design-Patterns\Design-Patterns\StrategyTests\obj\Debug\StrategyTests.dll
+C:\ClareCode\Design-Patterns\Design-Patterns\StrategyTests\obj\Debug\StrategyTests.pdb
+C:\ClareCode\Design-Patterns\Design-Patterns\StrategyTests\bin\Debug\StrategyTests.dll
+C:\ClareCode\Design-Patterns\Design-Patterns\StrategyTests\bin\Debug\StrategyTests.pdb
+C:\ClareCode\Design-Patterns\Design-Patterns\StrategyTests\bin\Debug\Domain.dll
+C:\ClareCode\Design-Patterns\Design-Patterns\StrategyTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\ClareCode\Design-Patterns\Design-Patterns\StrategyTests\bin\Debug\Domain.pdb

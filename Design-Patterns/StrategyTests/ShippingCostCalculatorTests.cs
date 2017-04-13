@@ -1,5 +1,6 @@
 ﻿using System;
 using Domain;
+using Domain.StrategyPatterns;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace StrategyTests

@@ -45,6 +45,9 @@
     <Compile Include="FactoryPatterns\MicrowaveOven.cs" />
     <Compile Include="FactoryPatterns\Robot.cs" />
     <Compile Include="FactoryPatterns\UnknownMachine.cs" />
+    <Compile Include="RepositoryPatterns\Address2.cs" />
+    <Compile Include="RepositoryPatterns\Customer.cs" />
+    <Compile Include="RepositoryPatterns\IDomain.cs" />
     <Compile Include="StrategyPatterns\Address.cs" />
     <Compile Include="StrategyPatterns\Order.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

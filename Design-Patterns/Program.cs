@@ -31,5 +31,15 @@ namespace Design_Patterns
                     return new UnknownMachine();
             }
         }
+
+        //static void Main(string[] args)
+        //{
+        //    string description = args[0];
+        //    IMachine machine = new MachineFactory().CreateInstance(description);
+        //    machine.TurnOn();
+        //    machine.TurnOff();
+
+        //    Console.ReadKey();
+        //}
     }
 }

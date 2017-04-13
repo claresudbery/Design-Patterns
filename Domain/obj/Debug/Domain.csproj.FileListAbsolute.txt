@@ -2,3 +2,4 @@ C:\ClareCode\Design-Patterns\Domain\bin\Debug\Domain.dll
 C:\ClareCode\Design-Patterns\Domain\bin\Debug\Domain.pdb
 C:\ClareCode\Design-Patterns\Domain\obj\Debug\Domain.dll
 C:\ClareCode\Design-Patterns\Domain\obj\Debug\Domain.pdb
+C:\ClareCode\Design-Patterns\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache

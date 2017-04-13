@@ -1,1 +1,8 @@
-see backup file
+Strategy from here:
+https://dotnetcodr.com/2015/09/30/design-patterns-and-practices-in-net-the-strategy-pattern/#more-682
+
+Factory from here:
+https://dotnetcodr.com/2015/09/29/design-patterns-and-practices-in-net-the-factory-patterns-concrete-static-abstract/#more-690
+
+Repository from here:
+https://dotnetcodr.com/2015/06/18/various-topics-from-software-architecture-part-2-the-repository-pattern/#more-6065

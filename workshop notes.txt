@@ -8,3 +8,20 @@ https://dotnetcodr.com/2015/09/29/design-patterns-and-practices-in-net-the-facto
 
 Repository from here:
 https://dotnetcodr.com/2015/06/18/various-topics-from-software-architecture-part-2-the-repository-pattern/#more-6065
+
+WORKSHOP STRUCTURE:
+Intro:
+	Go through SOLID - particularly open / closed - ideally with simple clear examples.
+Exercises:
+	(for each pattern, start by going through the relevant word doc in the root folder)
+Strategy:
+	1) Try to solve the initial problem
+	2) Change the test to use strategy pattern
+Factory:
+	1) Do an intro referring back to the USP / FedEx strategy example (use Jon H's question about how you would change strategy based on user input)
+	This was a hard concept for people to grasp. Use some kind of concrete simple code example?
+	2) Get them to try and solve the initial problem without help, by creating some kind of factory class
+	3) Write a test that tests the factory code
+Repository:	
+	1) Add an integration test which tests that CustomerRepository returns a customer called Clare for id = 1
+	2) Investigate the benefits: What if we switch implementations? Add another repository and change the integration test accordingly

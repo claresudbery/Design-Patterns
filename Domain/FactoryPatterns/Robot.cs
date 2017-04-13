@@ -18,6 +18,5 @@ namespace Domain.FactoryPatterns
         {
             Console.WriteLine("Robot is stopping.");
         }
-
     }
 }

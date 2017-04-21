@@ -42,12 +42,16 @@
   <ItemGroup>
     <Compile Include="FactoryPatterns\Car.cs" />
     <Compile Include="FactoryPatterns\IMachine.cs" />
+    <Compile Include="FactoryPatterns\MachineFactory.cs" />
     <Compile Include="FactoryPatterns\MicrowaveOven.cs" />
     <Compile Include="FactoryPatterns\Robot.cs" />
     <Compile Include="FactoryPatterns\UnknownMachine.cs" />
     <Compile Include="RepositoryPatterns\Address2.cs" />
     <Compile Include="RepositoryPatterns\Customer.cs" />
+    <Compile Include="RepositoryPatterns\CustomerRepository.cs" />
+    <Compile Include="RepositoryPatterns\ICustomerRepository.cs" />
     <Compile Include="RepositoryPatterns\IDomain.cs" />
+    <Compile Include="RepositoryPatterns\IRepository.cs" />
     <Compile Include="StrategyPatterns\Address.cs" />
     <Compile Include="StrategyPatterns\Order.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

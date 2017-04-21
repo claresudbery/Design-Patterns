@@ -11,7 +11,9 @@ namespace Domain.RepositoryPatterns
 
         public Customer FindBy(int id)
         {
-            throw new NotImplementedException();
+            var customer = new Customer();
+            customer.Name = "Clare";
+            return customer;
         }
 
         public bool Update(Customer aggregate)
